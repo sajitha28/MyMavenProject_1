@@ -7,7 +7,7 @@ public class DrivingLicenseEligibility {
 	
 			if(age>=18)
 			{
-				System.out.println("Eligible for Driving license");
+				System.out.println("Eligible for Driving");
 			}
 			else
 			{
