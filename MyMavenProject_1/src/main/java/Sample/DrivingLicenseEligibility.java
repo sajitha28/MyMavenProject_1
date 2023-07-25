@@ -11,7 +11,7 @@ public class DrivingLicenseEligibility {
 			}
 			else
 			{
-				System.out.println("Not eligible for drivig ");
+				System.out.println("Not Eligible for drivig ");
 			}
 			
 		}
